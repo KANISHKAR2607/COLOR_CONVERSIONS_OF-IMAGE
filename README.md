@@ -234,12 +234,14 @@ cv2.destroyAllWindows()
 
 ### Original HSV
 
-<img src='8.jpg'>
+![image](https://github.com/KANISHKAR2607/COLOR_CONVERSIONS_OF-IMAGE/assets/118886772/44529ae0-3956-4018-a138-35c3a427b41e)
+
 
 ### Output
 
 
-<img src='9.jpg'>
+![image](https://github.com/KANISHKAR2607/COLOR_CONVERSIONS_OF-IMAGE/assets/118886772/d58e2620-c2ff-4371-9709-82327e1c16aa)
+
 
 ## Program:
 
@@ -265,7 +267,8 @@ cv2.destroyAllWindows()
 ### Output
 
 
-<img src='10.jpg'>
+![image](https://github.com/KANISHKAR2607/COLOR_CONVERSIONS_OF-IMAGE/assets/118886772/3856ba4c-a2c3-44e2-94e5-4a49a913e14e)
+
 
 ## Program:
 
@@ -294,12 +297,14 @@ cv2.destroyAllWindows()
 
 #### Channels
 
-<img src='11.jpg'>
+![image](https://github.com/KANISHKAR2607/COLOR_CONVERSIONS_OF-IMAGE/assets/118886772/4ad7d95a-3c50-443f-b342-7f5ead729520)
+
 
 #### Merged RGB
 
 
-<img src='12.jpg'>
+![image](https://github.com/KANISHKAR2607/COLOR_CONVERSIONS_OF-IMAGE/assets/118886772/1d219980-ac93-4940-ab20-deb47f5906a8)
+
 
 ## Program:
 
@@ -328,14 +333,15 @@ cv2.destroyAllWindows()
 
 ### Merged HSV
 
+![image](https://github.com/KANISHKAR2607/COLOR_CONVERSIONS_OF-IMAGE/assets/118886772/20844066-4618-4bd1-ae49-5457f89c33e1)
 
-<img src='13.jpg'>
 
 
 ### Splitted
 
+![image](https://github.com/KANISHKAR2607/COLOR_CONVERSIONS_OF-IMAGE/assets/118886772/f4b282bb-e555-4e70-b417-37ae828b1daa)
 
-<img src='14.jpg'>
+
 
 ## Result:
 #### Thus the images are read, displayed, and written ,and color conversion was performed between RGB, HSV and YCbCr color models successfully using the python program.
